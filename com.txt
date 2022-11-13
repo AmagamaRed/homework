@@ -1,0 +1,18 @@
+1) на линуксе есть git
+2) git init
+git add 123.txt
+ git commit -m "..."
+git branch -M tree
+git branch vetka
+git chackout  vetka
+git add xod.txt
+git commit -m "..."
+git remote add origin1 https://github.com/AmagamaRed/homework.git
+git push -u origin1 vetka
+
+git branch vetka2
+git chackout  vetka2
+git add com.txt
+ git commit -m "..."
+ git remote add origin1 https://github.com/AmagamaRed/homework.git
+git push -u origin1 vetka2
